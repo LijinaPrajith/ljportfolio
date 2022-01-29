@@ -1,3 +1,3 @@
-https://github.com/LijinaPrajith/ljportfolio.git# ljportfolio
+# ljportfolio
 
 https://lijinaprajith.github.io/ljportfolio/
